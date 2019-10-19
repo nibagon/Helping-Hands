@@ -1,2 +1,2 @@
-# Helping-Hands
- For workshop
+# HHWorkshop
+ Helping Hands Club Workshop
