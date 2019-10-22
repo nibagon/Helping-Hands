@@ -1,2 +1,2 @@
-# HHWorkshop
- Helping Hands Club Workshop
+# Helping Hands Club @ University of Glasgow
+
