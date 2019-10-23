@@ -1,0 +1,22 @@
+#include <servo.h>
+Servo servo1;
+Servo servo2;
+int x;
+void setup () {
+servo1,attach(9);
+servo2.attach(8);
+}
+void loop{
+if (x=0, x<180){
+x++;
+servo1.write (x);
+servo2.write (x);
+delay(1000);
+}
+if (x>0, x=180){
+x--;
+servo1.write (x);
+servo2.write (x);
+delay(1000);
+}
+}
